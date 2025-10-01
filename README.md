@@ -22,7 +22,7 @@ I also find value in creating and maintaining libraries that other developers ca
 `Java` `Python` `JavaScript` `HTML/CSS` `SQL` `Bash` `Markdown`  
 
 **Frameworks:**  
-`Django` `Django REST Framework` `Javalin` `Hibernate` `Bootstrap 5`  
+`Django` `Django REST Framework` `Javalin` `Hibernate` `Bootstrap 5`  `svelte`
 
 **Libraries:**  
 `Axios` `jQuery` `Sass` `SQLAlchemy` `Jakarta Mail` `java-jwt` `jackson` `jbcrypt` `bcrypt` `Lombok` `JCommander` `xlsxwriter` `Jedis`  
