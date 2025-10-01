@@ -46,6 +46,9 @@ REST API-based inventory management system for businesses to handle stock, produ
 ### 🔹 [Kittyfacts](https://github.com/mabrikado/kittyfacts)  
 Fun app fetching and displaying random cat trivia — perfect for cat enthusiasts.  
 
+### 🔹 [dictionaryweb](https://github.com/mabrikado/dictionaryweb)  
+A Svelte-based web application that provides dictionary definitions, synonyms, and example sentences, delivering a smooth and rich user experience through REST API integration.
+
 ---
 
 ## 📊 GitHub Stats  
