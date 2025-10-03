@@ -14,6 +14,8 @@ Problem-solving is my favorite aspect of software development—I enjoy breaking
 
 I also find value in creating and maintaining libraries that other developers can use. My focus is on simplicity, clarity, and reusability to support efficient development practices and foster collaboration within the developer community.  
 
+Additionally, I have been working on **Sakhi Construction**, a fictional construction company website built using Django and modern web technologies, demonstrating my backend and frontend skills in a real-world-like project.  
+
 ---
 
 ## 🛠️ Technical Skills  
@@ -22,7 +24,7 @@ I also find value in creating and maintaining libraries that other developers ca
 `Java` `Python` `JavaScript` `HTML/CSS` `SQL` `Bash` `Markdown`  
 
 **Frameworks:**  
-`Django` `Django REST Framework` `Javalin` `Hibernate` `Bootstrap 5`  `svelte`
+`Django` `Django REST Framework` `Javalin` `Hibernate` `Bootstrap 5`  `Svelte`
 
 **Libraries:**  
 `Axios` `jQuery` `Sass` `SQLAlchemy` `Jakarta Mail` `java-jwt` `jackson` `jbcrypt` `bcrypt` `Lombok` `JCommander` `xlsxwriter` `Jedis`  
@@ -47,7 +49,10 @@ REST API-based inventory management system for businesses to handle stock, produ
 Fun app fetching and displaying random cat trivia — perfect for cat enthusiasts.  
 
 ### 🔹 [dictionaryweb](https://github.com/mabrikado/dictionaryweb)  
-A Svelte-based web application that provides dictionary definitions, synonyms, and example sentences, delivering a smooth and rich user experience through REST API integration.
+A Svelte-based web application that provides dictionary definitions, synonyms, and example sentences, delivering a smooth and rich user experience through REST API integration.  
+
+### 🔹 [Sakhi Construction](https://github.com/mabrikado/sakhiconstruction)  
+A Django-powered construction company website demonstrating modern backend and frontend skills, including blog management, CKEditor integration, and responsive UI design.  
 
 ---
 
