@@ -14,7 +14,7 @@ Problem-solving is my favorite aspect of software development — I enjoy breaki
 
 I also find value in creating and maintaining libraries that other developers can use. My focus is on simplicity, clarity, and reusability to support efficient development practices and foster collaboration within the developer community.  
 
-Additionally, I have been working on **Sakhi Construction** and **SheshaPay**, projects that demonstrate both my backend and frontend development capabilities, using frameworks like **Spring Boot**, **Next.js**, and **Django**.  
+Additionally, I have been working on **Sakhi Construction** and **SheshaPay**, projects that demonstrate both my backend and frontend development capabilities using modern web technologies.  
 
 ---
 
@@ -40,23 +40,19 @@ Additionally, I have been working on **Sakhi Construction** and **SheshaPay**, p
 ## 📂 Featured Projects  
 
 ### 🏦 [SheshaPay API](https://github.com/mabrikado/sheshapayAPI)  
-A **Spring Boot REST API** powering a digital wallet platform similar to PayPal.  
-Features include **JWT authentication**, **wallet management**, and **transaction tracking**.  
-
-**Tech Stack:** `Spring Boot` `PostgreSQL` `Spring Security` `JWT` `Maven`  
+A REST API powering a digital wallet platform similar to PayPal.  
+Features include authentication, wallet management, and transaction tracking.  
 
 ---
 
 ### 💳 [SheshaPay Frontend](https://github.com/mabrikado/sheshapay-frontend)  
-A **Next.js + Tailwind CSS** web frontend for the SheshaPay API, providing a clean UI for deposits, withdrawals, and transfers.  
-The frontend integrates seamlessly with the backend via REST APIs and can automatically start the backend container using Docker.  
-
-**Tech Stack:** `Next.js` `Tailwind CSS` `Axios` `Docker` `PNPM`  
+A web frontend for the SheshaPay API, providing a clean UI for deposits, withdrawals, and transfers.  
+The frontend integrates seamlessly with the backend and can automatically start the backend container using Docker.  
 
 ---
 
 ### 🧩 [ChazaAPI](https://github.com/mabrikado/ChazaAPI)  
-Java library to automate clear, human-readable, and machine-processable API documentation directly from source code.  
+Java library that automates human-readable and machine-processable API documentation directly from source code.  
 
 ---
 
@@ -66,17 +62,17 @@ REST API-based inventory management system for businesses to handle stock, produ
 ---
 
 ### 🐱 [Kittyfacts](https://github.com/mabrikado/kittyfacts)  
-Fun app fetching and displaying random cat trivia — perfect for cat enthusiasts.  
+A fun app that fetches and displays random cat trivia — perfect for cat enthusiasts.  
 
 ---
 
 ### 📖 [dictionaryweb](https://github.com/mabrikado/dictionaryweb)  
-A **Svelte**-based web app providing dictionary definitions, synonyms, and examples through REST API integration.  
+A Svelte-based web app that provides dictionary definitions, synonyms, and example sentences with smooth UI integration.  
 
 ---
 
 ### 🏗️ [Sakhi Construction](https://github.com/mabrikado/sakhiconstruction)  
-A **Django-powered construction company website** demonstrating backend and frontend skills, blog management, and responsive UI design.  
+A Django-powered construction company website demonstrating modern backend and frontend development with responsive design.  
 
 ---
 
