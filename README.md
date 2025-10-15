@@ -45,7 +45,7 @@ Features include authentication, wallet management, and transaction tracking.
 
 ---
 
-### 💳 [SheshaPay Frontend](https://github.com/mabrikado/sheshapay-frontend)  
+### 💳 [SheshaPay Frontend](https://github.com/mabrikado/sheshapayWeb)  
 A web frontend for the SheshaPay API, providing a clean UI for deposits, withdrawals, and transfers.  
 The frontend integrates seamlessly with the backend and can automatically start the backend container using Docker.  
 
