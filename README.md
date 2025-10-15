@@ -71,7 +71,7 @@ A Svelte-based web app that provides dictionary definitions, synonyms, and examp
 
 ---
 
-### 🏗️ [Sakhi Construction](https://github.com/mabrikado/sakhiconstruction)  
+### 🏗️ [Sakhi Construction](https://github.com/mabrikado/construction)  
 A Django-powered construction company website demonstrating modern backend and frontend development with responsive design.  
 
 ---
