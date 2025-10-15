@@ -55,13 +55,6 @@ A Svelte-based web application that provides dictionary definitions, synonyms, a
 A Django-powered construction company website demonstrating modern backend and frontend skills, including blog management, CKEditor integration, and responsive UI design.  
 
 ---
-
-## 📊 GitHub Stats  
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mabrikado&show_icons=true&theme=tokyonight)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mabrikado&layout=compact&theme=tokyonight)  
-
 ---
 
 ## 📫 Let’s Connect  
