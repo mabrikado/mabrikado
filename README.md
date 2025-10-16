@@ -24,7 +24,7 @@ Additionally, I have been working on **Sakhi Construction** and **SheshaPay**, p
 `Java` `Python` `JavaScript` `HTML/CSS` `SQL` `Bash` `Markdown`  
 
 **Frameworks:**  
-`Spring Boot` `Django` `Django REST Framework` `Javalin` `Hibernate` `Bootstrap 5` `Svelte` `Next.js`  
+`Spring Boot` `Django` `Django REST Framework` `Javalin` `Hibernate` `Bootstrap 5` `Svelte` `Next.js` `React js` 
 
 **Libraries:**  
 `Axios` `React Query` `Tailwind CSS` `Sass` `SQLAlchemy` `Jakarta Mail` `java-jwt` `jackson` `jbcrypt` `bcrypt` `Lombok` `JCommander` `xlsxwriter` `Jedis`  
