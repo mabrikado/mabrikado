@@ -78,8 +78,6 @@ A Django-powered construction company website demonstrating modern backend and f
 
 ## 📫 Let’s Connect  
 
-## 📫 Let’s Connect  
-
 ![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)  
 **buthelezimadondo67@gmail.com**  
 🔗 [mailto:buthelezimadondo67@gmail.com](mailto:buthelezimadondo67@gmail.com)  
