@@ -78,13 +78,17 @@ A Django-powered construction company website demonstrating modern backend and f
 
 ## 📫 Let’s Connect  
 
-<a href="mailto:buthelezimadondo67@gmail.com" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="30px" alt="Email" style="vertical-align:middle; margin-right:10px;" />
-</a>
-<a href="https://www.linkedin.com/in/sibusiso-buthelezi-967903328/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30px" alt="LinkedIn" style="vertical-align:middle; margin-right:10px;" />
-</a>
-<a href="https://mabrikado.netlify.app/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" width="30px" alt="Website" style="vertical-align:middle; margin-right:10px;" />
-</a>
+## 📫 Let’s Connect  
+
+![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)  
+**buthelezimadondo67@gmail.com**  
+🔗 [mailto:buthelezimadondo67@gmail.com](mailto:buthelezimadondo67@gmail.com)  
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)  
+**Sibusiso Buthelezi**  
+🔗 [https://www.linkedin.com/in/sibusiso-buthelezi-967903328/](https://www.linkedin.com/in/sibusiso-buthelezi-967903328/)  
+
+![Website](https://img.shields.io/badge/Website-1abc9c?style=for-the-badge&logo=netlify&logoColor=white)  
+**mabrikado**  
+🔗 [https://mabrikado.netlify.app/](https://mabrikado.netlify.app/)
 
