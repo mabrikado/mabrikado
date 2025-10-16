@@ -78,6 +78,13 @@ A Django-powered construction company website demonstrating modern backend and f
 
 ## 📫 Let’s Connect  
 
-- 📧 Email: [buthelezimadondo67@gmail.com](mailto:buthelezimadondo67@gmail.com)  
-- 💼 LinkedIn: [Sibusiso Buthelezi](https://www.linkedin.com/in/sibusiso-buthelezi-967903328/)  
-- 🐙 GitHub: [mabrikado](https://github.com/mabrikado)  
+<a href="mailto:buthelezimadondo67@gmail.com" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="30px" alt="Email" style="vertical-align:middle; margin-right:10px;" />
+</a>
+<a href="https://www.linkedin.com/in/sibusiso-buthelezi-967903328/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30px" alt="LinkedIn" style="vertical-align:middle; margin-right:10px;" />
+</a>
+<a href="https://mabrikado.netlify.app/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" width="30px" alt="Website" style="vertical-align:middle; margin-right:10px;" />
+</a>
+
