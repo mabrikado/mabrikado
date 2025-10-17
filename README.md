@@ -47,8 +47,8 @@ Additionally, I have been working on **Sakhi Construction** and **SheshaPay**, p
 **SheshaPay** is a full-stack digital wallet platform inspired by PayPal.  
 It enables users to **register, authenticate, top-up, transfer, and withdraw funds** through a secure and user-friendly interface.  
 
-The backend is built with **Spring Boot**, providing robust REST APIs for authentication, wallet management, and transactions.  
-The frontend is developed with **Next.js** and **Tailwind CSS**, offering a clean, responsive, and modern user experience.  
+The backend is built with **Spring Boot**, providing robust REST APIs for authentication, wallet management, and transactions.
+The frontend is developed with **Next.js** and **Tailwind CSS**, offering a clean, and modern user experience with light and darkmode feature.  
 
 📦 **Backend Repository:** [SheshaPay API](https://github.com/mabrikado/sheshapayAPI)  
 🖥️ **Frontend Repository:** [SheshaPay Web](https://github.com/mabrikado/sheshapayWeb)  
