@@ -3,7 +3,7 @@
 🎓 Final-year **Software Development Student** at **WeThinkCode_**  
 💻 Passionate about **Full-Stack Development**, **API Design**, and **Open Source Contributions**  
 🌱 Currently learning more about **modern frameworks** and **software architecture**  
-⚡ Fun fact: I enjoy creating developer libraries/tools that make coding easier and more reusable.  
+⚡ Fun fact: I enjoy creating developer libraries and tools that make coding easier and more reusable.  
 
 ---
 
@@ -39,65 +39,64 @@ Additionally, I have been working on **Sakhi Construction** and **SheshaPay**, p
 ---
 
 ## 📂 Featured Projects  
-# 🏦 SheshaPay — Fast. Secure. Connected.
 
-**Live Demo:** 🌐 [https://sheshapayweb-latest.onrender.com/](https://sheshapayweb-latest.onrender.com/)
+### 🏦 SheshaPay — Fast. Secure. Connected.  
+
+**Live Demo:** 🌐 [https://sheshapayweb-latest.onrender.com/](https://sheshapayweb-latest.onrender.com/)  
 
 **SheshaPay** is a full-stack digital wallet platform inspired by PayPal.  
-It enables users to **register, authenticate, top-up, transfer, and withdraw funds** seamlessly through a secure and user-friendly web interface.
+It enables users to **register, authenticate, top-up, transfer, and withdraw funds** through a secure and user-friendly interface.  
 
 The backend is built with **Spring Boot**, providing robust REST APIs for authentication, wallet management, and transactions.  
-The frontend is developed using **Next.js** and **Tailwind CSS**, offering a clean, responsive, and modern user experience.
+The frontend is developed with **Next.js** and **Tailwind CSS**, offering a clean, responsive, and modern user experience.  
+
+📦 **Backend Repository:** [SheshaPay API](https://github.com/mabrikado/sheshapayAPI)  
+🖥️ **Frontend Repository:** [SheshaPay Web](https://github.com/mabrikado/sheshapayWeb)  
 
 ---
 
-## 💡 Overview
+### 🧩 ChazaAPI — Automated API Documentation  
 
-**SheshaPay** combines a powerful backend service with a sleek frontend dashboard to deliver a modern, fast, and reliable payment experience.  
-It supports wallet operations, transaction tracking, and real-time balance management — giving users complete control over their digital finances.
+**ChazaAPI** is a lightweight Java library that automatically generates both **human-readable** and **machine-processable** API documentation directly from annotated source code.  
+It simplifies backend development by reducing manual documentation work and improving code clarity.  
 
----
-
-## ⚙️ Backend
-
-📦 **Repository:** [SheshaPay API](https://github.com/mabrikado/sheshapayAPI)  
-
-The **SheshaPay API** handles user registration, authentication, wallet management, and transaction operations.  
-Built with **Spring Boot**, it ensures high performance, security, and scalability through RESTful architecture and JWT-based authentication.
+📘 **Repository:** [ChazaAPI](https://github.com/mabrikado/ChazaAPI)  
 
 ---
 
-## 💻 Frontend
+### 📦 InventorySystemAPI — Smart Inventory Management  
 
-🖥️ **Repository:** [SheshaPay Web](https://github.com/mabrikado/sheshapayWeb)  
+**InventorySystemAPI** is a REST-based backend service that helps businesses manage **stock, products, and users** efficiently.  
+It supports CRUD operations, authentication, and detailed stock tracking to simplify warehouse and product management.  
 
-The **SheshaPay Web** interface is built with **Next.js** and styled using **Tailwind CSS** for a smooth, mobile-friendly user experience.  
-It connects directly to the backend API, allowing users to manage their accounts, send money, and view real-time transaction updates.
-
----
-
-### 🧩 [ChazaAPI](https://github.com/mabrikado/ChazaAPI)  
-Java library that automates human-readable and machine-processable API documentation directly from source code.  
+📘 **Repository:** [InventorySystemAPI](https://github.com/mabrikado/InventorySystemAPI)  
 
 ---
 
-### 📦 [InventorySystemAPI](https://github.com/mabrikado/InventorySystemAPI)  
-REST API-based inventory management system for businesses to handle stock, products, and users efficiently.  
+### 🐱 Kittyfacts — Fun Cat Trivia App  
+
+**Kittyfacts** is a playful web app that fetches and displays random cat facts using public APIs.  
+It’s a small yet fun project that demonstrates API integration, frontend logic, and UI simplicity.  
+
+📘 **Repository:** [Kittyfacts](https://github.com/mabrikado/kittyfacts)  
 
 ---
 
-### 🐱 [Kittyfacts](https://github.com/mabrikado/kittyfacts)  
-A fun app that fetches and displays random cat trivia — perfect for cat enthusiasts.  
+### 📖 DictionaryWeb — Smart Dictionary App  
+
+**DictionaryWeb** is a **Svelte-based** dictionary application that provides **definitions, synonyms, and example sentences**.  
+It focuses on performance, minimalism, and clean UI integration with real-time search capabilities.  
+
+📘 **Repository:** [dictionaryweb](https://github.com/mabrikado/dictionaryweb)  
 
 ---
 
-### 📖 [dictionaryweb](https://github.com/mabrikado/dictionaryweb)  
-A Svelte-based web app that provides dictionary definitions, synonyms, and example sentences with smooth UI integration.  
+### 🏗️ Sakhi Construction — Modern Business Website  
 
----
+**Sakhi Construction** is a professional company website built using **Django** to demonstrate full-stack development skills.  
+It combines a dynamic backend with a responsive frontend to showcase projects, services, and contact functionality.  
 
-### 🏗️ [Sakhi Construction](https://github.com/mabrikado/construction)  
-A Django-powered construction company website demonstrating modern backend and frontend development with responsive design.  
+📘 **Repository:** [Sakhi Construction](https://github.com/mabrikado/construction)  
 
 ---
 
@@ -113,5 +112,3 @@ A Django-powered construction company website demonstrating modern backend and f
 🌐 **mabrikado**  
 
 ---
-
-**Made with 💚 by Sibusiso Buthelezi**
