@@ -39,68 +39,40 @@ Additionally, I have been working on **Sakhi Construction** and **SheshaPay**, p
 ---
 
 ## 📂 Featured Projects  
+# 🏦 SheshaPay — Fast. Secure. Connected.
 
-### 🏦 SheshaPay — Fast. Secure. Connected.  
+**Live Demo:** 🌐 [https://sheshapayweb-latest.onrender.com/](https://sheshapayweb-latest.onrender.com/)
 
-**Live Demo:** 🌐 [https://sheshapayweb-latest.onrender.com/](https://sheshapayweb-latest.onrender.com/)  
+**SheshaPay** is a full-stack digital wallet platform inspired by PayPal.  
+It enables users to **register, authenticate, top-up, transfer, and withdraw funds** seamlessly through a secure and user-friendly web interface.
 
-SheshaPay is a **full-stack digital wallet platform** inspired by PayPal — enabling users to **register, authenticate, top-up, transfer, and withdraw funds** seamlessly through an intuitive web interface.  
-
----
-
-### 🚀 Project Overview  
-
-**SheshaPay** consists of two main components — a powerful backend API and a sleek, responsive frontend. Together, they form a secure and modern payment ecosystem.  
-
-| Layer | Technology | Description |
-|-------|-------------|-------------|
-| **Frontend** | [Next.js](https://nextjs.org/) + [Tailwind CSS](https://tailwindcss.com/) | User-facing dashboard with light-green theme |
-| **Backend** | [Spring Boot (Java 21)](https://spring.io/projects/spring-boot) | RESTful API for authentication, wallet management, and transactions |
-| **Database** | [PostgreSQL](https://www.postgresql.org/) | Persistent storage for users, wallets, and transactions |
-| **Containerization** | [Docker](https://www.docker.com/) + Docker Compose | Unified environment for local and cloud deployment |
+The backend is built with **Spring Boot**, providing robust REST APIs for authentication, wallet management, and transactions.  
+The frontend is developed using **Next.js** and **Tailwind CSS**, offering a clean, responsive, and modern user experience.
 
 ---
 
-### ⚙️ Backend — [SheshaPay API](https://github.com/mabrikado/sheshapayAPI)  
+## 💡 Overview
 
-The **SheshaPay API** is a Spring Boot REST service that powers all wallet and transaction operations.  
-
-#### ✨ Features  
-- 🔐 **User Authentication & Registration** — Secure JWT-based login and signup  
-- 💰 **Wallet Management** — Top-ups, withdrawals, and peer-to-peer transfers  
-- 📊 **Transaction History** — Real-time tracking of wallet activity  
-- 🌍 **CORS-Enabled** — Accessible from any authorized frontend  
-- 🐳 **Dockerized** — Simplified deployment and scalability  
+**SheshaPay** combines a powerful backend service with a sleek frontend dashboard to deliver a modern, fast, and reliable payment experience.  
+It supports wallet operations, transaction tracking, and real-time balance management — giving users complete control over their digital finances.
 
 ---
 
-### 💻 Frontend — [SheshaPay Web](https://github.com/mabrikado/sheshapayWeb)  
+## ⚙️ Backend
 
-The **SheshaPay Web** frontend provides a modern, intuitive interface built with **Next.js** and **Tailwind CSS**.  
+📦 **Repository:** [SheshaPay API](https://github.com/mabrikado/sheshapayAPI)  
 
-#### ✨ Features  
-- 🎨 **Light-Green Theme** — Minimal, user-friendly interface  
-- ⚡ **Real-Time Updates** — Responsive transaction dashboard  
-- 🔒 **Secure Communication** — Fully integrated with JWT authentication  
-- 🔁 **Auto Backend Startup** — Via Docker Compose integration  
+The **SheshaPay API** handles user registration, authentication, wallet management, and transaction operations.  
+Built with **Spring Boot**, it ensures high performance, security, and scalability through RESTful architecture and JWT-based authentication.
 
 ---
 
-## 🧰 Tech Stack Summary  
+## 💻 Frontend
 
-- **Frontend:** Next.js, React, Tailwind CSS  
-- **Backend:** Spring Boot, Java 21, Spring Security, JPA  
-- **Database:** PostgreSQL  
-- **Containerization:** Docker & Docker Compose  
-- **Authentication:** JWT (JSON Web Token)  
-- **Hosting:** Render  
+🖥️ **Repository:** [SheshaPay Web](https://github.com/mabrikado/sheshapayWeb)  
 
----
-
-## 🌐 Live Demo  
-
-🚀 **Explore the live version here:**  
-👉 [https://sheshapayweb-latest.onrender.com/](https://sheshapayweb-latest.onrender.com/)  
+The **SheshaPay Web** interface is built with **Next.js** and styled using **Tailwind CSS** for a smooth, mobile-friendly user experience.  
+It connects directly to the backend API, allowing users to manage their accounts, send money, and view real-time transaction updates.
 
 ---
 
